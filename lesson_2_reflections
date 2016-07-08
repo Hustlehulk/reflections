@@ -4,3 +4,10 @@ We use git init cmd to intitalize a git repositry in
 existing directory.A file .git is created which is nothinh
 but a git repositry. It is need to be able
 to use git i.e track our history.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+By using git diff cmd we will be able to see diffrrence between the working directry 
+& latest commit which is the content @ staging area . By noting differences in types
+and in diffrent files , we can add files to the staging area using git add cmd under 
+the condition of rule of thumb one logical change per commit.
