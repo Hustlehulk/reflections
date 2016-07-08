@@ -11,3 +11,11 @@ By using git diff cmd we will be able to see diffrrence between the working dire
 & latest commit which is the content @ staging area . By noting differences in types
 and in diffrent files , we can add files to the staging area using git add cmd under 
 the condition of rule of thumb one logical change per commit.
+
+What are some situations when branches would be helpful in keeping your history 
+organized? How would branches help?
+
+Purpose of branches is to experiment or play when we are in a
+situation to do.It gives immense power to the programmer to create branch 
+at any logical step where we want to make extra version of that code.Like
+making an easy mode of the game
