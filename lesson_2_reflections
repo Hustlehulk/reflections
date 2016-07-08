@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+We use git init cmd to intitalize a git repositry in
+existing directory.A file .git is created which is nothinh
+but a git repositry. It is need to be able
+to use git i.e track our history.
