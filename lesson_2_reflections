@@ -19,3 +19,13 @@ Purpose of branches is to experiment or play when we are in a
 situation to do.It gives immense power to the programmer to create branch 
 at any logical step where we want to make extra version of that code.Like
 making an easy mode of the game
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros of automatic merging over Manual -
+a)fast and easy b) Detect codes diffrence 
+COns :
+a) Detecting code diffrence is a pro but it has 
+disadvantages like the same code with diffrent function
+name is detected as conflict because what git does it 
+compares the code and then make the decision process
