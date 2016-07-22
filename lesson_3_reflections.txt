@@ -1,1 +1,13 @@
 When would you want to use a remote repository rather than keeping all your work local?
+
+Here remote repository is nothing but holding by github. We are using this remote repositry
+to connect with people. We can collaborate with other people code and it is useful for 
+software development of large projects. Here Remote repo must have some name. commits can 
+be pulled and pushed  using git command 
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks : We clone the repositry from github to github using a button call fork
+Clones: Clone is the process when we copy repositry from github/remote to our pc
+Branches - Branches are nothing but a commit which is going to be diffrent from the master.
+By branching we work on diffrent feature , individually.
